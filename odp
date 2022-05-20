@@ -1,0 +1,13 @@
+1. Skrypty po stronie serwera
+2. Żeby zacząć pisać w jezyku php trzeba zacząć "<?php" i zakonczyc z "?>"
+3. Zawierają zmienne serwera, zmienne środowiskowe oraz zmienne użytkownika.
+4. $x++ dodaje +1 do $x ale wyswietla zmieniony x po czasie, a ++$x pokazuje cyfre o 1 wieksza niz $x ale jej nie zmienia
+5. Predefiniowane zmienne zmieniają swoją wartość na podstawie ich wykorzystania.
+6. Pętla foreach działa tylko na tablicach i służy do przechodzenia przez każdą parę klucz/wartość w tablicy.
+7. Zmiennych statycznych nie mozna zmienic po pierwszym jej zdefiniowaniu
+8. Timestamp wyswietla obecną datę i czas
+9. Dane przesłane metodą get pojawiają się w linku, a metoda post jest wykonywana całkowicie po stronie serwera
+10. Pliki cookies przechowują w sobie dane na dluzszy okres czasu 
+11. Sesja jest przypisywana do id komputera i sa permanentne
+12. login, haslo, adres serwera bazy danych, nazwa bazy danych
+13. Pozwala korzystac z bazy danych MYsql przez kod php
